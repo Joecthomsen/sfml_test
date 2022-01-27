@@ -839,7 +839,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "MY_PROJECT"
+			"value" : "my_project"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1159,6 +1159,30 @@
 		},
 		{
 			"name" : "Project_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/johannes/DTU/sfml_test"
+		},
+		{
+			"name" : "my_project_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/johannes/DTU/sfml_test/build"
+		},
+		{
+			"name" : "my_project_SOURCE_DIR",
 			"properties" : 
 			[
 				{

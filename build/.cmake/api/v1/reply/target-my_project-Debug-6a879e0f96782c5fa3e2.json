@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "MY_PROJECT"
+			"path" : "my_project"
 		}
 	],
 	"backtrace" : 1,
@@ -45,7 +45,7 @@
 			]
 		}
 	],
-	"id" : "MY_PROJECT::@6890427a1f51a3e7e1df",
+	"id" : "my_project::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -57,8 +57,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "MY_PROJECT",
-	"nameOnDisk" : "MY_PROJECT",
+	"name" : "my_project",
+	"nameOnDisk" : "my_project",
 	"paths" : 
 	{
 		"build" : ".",

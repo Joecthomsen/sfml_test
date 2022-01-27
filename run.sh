@@ -1,1 +1,1 @@
-cd out/build ; ./MY_PROJECT
+cd out/build ; ./my_project
